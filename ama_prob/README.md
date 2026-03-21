@@ -1,1 +1,0 @@
-Listas das disciplina de Aprendizagem de Máquina Probabilística.
